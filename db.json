@@ -10,12 +10,6 @@
 {"id":7, "name":"Andar con la palida", "significado": "Similar a la resaca pero mas fuerte, debido a una reaccion a alcohol o drogas o ambas"},
 {"id":8, "name":"Andar con la pera","significado": "Estar con temor o miedo"},
 {"id":9, "name":"Andar con la wea", "significado": "Andar idiota, insoportable"},
-{"id":10, "name":"Andar en pelota", "significado":"Transitar desnudo"},
-{"id":11, "name":"Andar joteando", "significado":"Acechar a un objetivo sexual o de conquista (asimilando al ave con su presa)"},
-{"id":12, "name":"Anda pato","significado":"Carente de dinero"},
-{"id":13, "name":"Andar prendido", "significado":"Con ganas de celebrar, o de emprender una actividad que gusta a la persona"},
-{"id":14, "name":"Andar sopeao", "significado":"Sudado al maximo ya sea por esfuerzo fisico o alta temperatura"},
-{"id":15, "name":"Anda a freir monos", "significado":" Desaparece de mi vista"},
-{"id":16, "name":"Andate a la cresta", "significado":"Igual a anda a freir monos o a bañarte pero aca representa mayor hostilidad"}
+{"id":10, "name":"Andar en pelota", "significado":"Transitar desnudo"}
 ]
 }
