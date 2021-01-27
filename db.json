@@ -1,15 +1,48 @@
 {
-"FRASE ORIGINAL	SIGNIFICADO":[
-
-{"id":1, "name": "Al seco", "significado":"Beber todo el contenido de un solo sorbo"},
-{"id":2, "name":"Al tiro, Al toque", "significado": "De inmediato"},
-{"id":3, "name":"Amigo con cover, con cajita feliz, con raspe, etc", "significado":"Amigos que sostiene una relacion carnal sin comrpomiso sentimental"},
-{"id":4, "name":"Andar al tres y al cuatro", "significado":"Escaso de dinero"},
-{"id":5, "name":"Andar caliente (agregue nombre alguien o algo)", "significado":"Deseos de estar con alguien (estoy caliente con la Fran) o de obtener algo (estoy caliente por comprarme tal cosa), tambien se utiliza como sinonimo de molestia o rabia (me tiene caliente este wn)"},
-{"id":6, "name":"Andar con la caña mala", "significado": "Estar con resaca despues de beber en exceso"},
-{"id":7, "name":"Andar con la palida", "significado": "Similar a la resaca pero mas fuerte, debido a una reaccion a alcohol o drogas o ambas"},
-{"id":8, "name":"Andar con la pera","significado": "Estar con temor o miedo"},
-{"id":9, "name":"Andar con la wea", "significado": "Andar idiota, insoportable"},
-{"id":10, "name":"Andar en pelota", "significado":"Transitar desnudo"}
-]
+	"FRASES": [{
+			"id": 1,
+			"name": "Al seco",
+			"significado": "Beber todo el contenido de un solo sorbo"
+		},
+		{
+			"id": 2,
+			"name": "Al tiro, Al toque",
+			"significado": "De inmediato"
+		},
+		{
+			"id": 3,
+			"name": "Amigo con cover, con cajita feliz, con raspe, etc",
+			"significado": "Amigos que sostiene una relacion carnal sin comrpomiso sentimental"
+		},
+		{
+			"id": 4,
+			"name": "Andar al tres y al cuatro",
+			"significado": "Escaso de dinero"
+		},
+		{
+			"id": 5,
+			"name": "Andar con la caña mala",
+			"significado": "Estar con resaca despues de beber en exceso"
+		},
+		{
+			"id": 6,
+			"name": "Andar con la palida",
+			"significado": "Similar a la resaca pero mas fuerte, debido a una reaccion a alcohol o drogas o ambas"
+		},
+		{
+			"id": 7,
+			"name": "Andar con la pera",
+			"significado": "Estar con temor o miedo"
+		},
+		{
+			"id": 8,
+			"name": "Andar con la wea",
+			"significado": "Andar idiota, insoportable"
+		},
+		{
+			"id": 9,
+			"name": "Andar en pelota",
+			"significado": "Transitar desnudo"
+		}
+	]
 }
